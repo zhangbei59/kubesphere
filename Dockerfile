@@ -1,1 +1,1 @@
-FROM  kubesphere:v3.4.0
+FROM  labring/kubesphere:v3.4.0
